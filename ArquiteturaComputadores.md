@@ -5,6 +5,6 @@
 ## Conteúdo programático
 
 ## Cronograma de Aulas
-[Aula 01] (https://github.com/augustoquaresma/disciplinas-computacao-estacio-2024/blob/main/arquitetura-de-compuradores/aulas/aula01_arquitetura.pdf)
+[Aula 01 - Apresentação da disciplina e conceitos iniciais](https://github.com/augustoquaresma/disciplinas-computacao-estacio-2024/blob/main/arquitetura-de-compuradores/aulas/aula01_arquitetura.pdf)
 
 ## Materiais trabalhados em sala de aula
