@@ -1,8 +1,9 @@
-# Redes de computadores #
-* Ministrante: Prof. Dr. José Augusto de Sena Quaresma
-* Obs.: Conteúdo destinado para alunos dos cursos de computação da faculdade Estácio FAP do ano de 2024.
+# :computer::outbox_tray: Fundamentos de Redes de computadores :inbox_tray::computer: #
+* 👨‍🏫 Ministrante: Prof. Dr. José Augusto de Sena Quaresma
+* ⚠️ Obs.: Conteúdo destinado para alunos dos cursos de computação da faculdade Estácio FAP do ano de 2024.
+* 📧 E-mail contato: jq.quaresma12@gmail.com
   
-## Objetivo da disciplina ##
+## Objetivo da disciplina :dart: ##
 Os objetivos da disciplina são: 
 * Analisar o complexo conjunto de obstáculos a serem contornados para a comunicação em redes, utilizando modelos de camadas, protocolos e padrões, para esboçar soluções eficientes e escaláveis baseadas em redes;
 * Compreender as arquiteturas de redes sem fio, considerando as características desse meio físico e aplicações, para definir soluções típicas do mundo real e identificar novas oportunidades;
@@ -11,7 +12,7 @@ Os objetivos da disciplina são:
 * ­Identificar características e serviços das camadas física e de enlace, para definir soluções para problemas típicos do mundo real;
 * Conhecer as principais questões de segurança em redes de computadores, baseado no conhecimento de boas práticas de segurança, para identificação de oportunidades de ação e correção.
 
-## Conteúdo programático ##
+## Conteúdo programático  :chart_with_upwards_trend: ##
 ### 1. Introdução a redes de computadores e histórico da internet ###
   1. Histórico e evolução
   2. Classificação de redes
@@ -44,40 +45,56 @@ Os objetivos da disciplina são:
 2. Softwares e equipamentos seguros
 3. Gerenciamento de redes 
 
-## Aulas ##
+## Aulas :microphone: :computer: ##
 
 Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 
 | Aula    | Conteúdo              | Atividade         | Acesso      |
 |-------- | ----------------------|------------------ | ----------- 
 | Aula 01 | Conceitos iniciais    | Fase Inicial projeto | [Aula 01](redes-computadores/Aula01_Fundamentos_Redes.pdf)        |
-| Aula 02 | Modelo de referência OSI (Open Systems Interconnection) e Pilha TCP/ IP | Atividade da aula | (Aula 02) |
+| Aula 02 | Modelo de referência OSI (Open Systems Interconnection) e Pilha TCP/ IP | Atividade da aula | [Aula 02](redes-computadores/Aula02.pdf) |
+| Aula 03 | Equipamentos de redes | Fase 02 - Projeto | [Aula 03](redes-computadores/Aula03.pdf) |
+| Aula 04 | Camada de aplicação | Validação e prazo do projeto | [Aula 04](redes-computadores/Aula04CamadaAplicacao.pdf) |
+| ... | ... | ... | ... |
 
 
 
-## Atividades ##
+> [!IMPORTANT]  
+> Alguns dias importantes para terem conhecimento:
+> | Data       | Descrição                     | 
+> |--------    | ----------------------        |
+> | 22/04/2024 | Avaliando aprendizagem  01    |
+> | ...        | ...                           |
 
-No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link de 
+
+
+
+## Atividades :pencil2: ##
+
+No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link do forms.
+
 
 | Atividade | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
-| Atividade 01 | Lista de exercício topologias de redes | link | 05/05/2024 |
-| Atividade 01 | Modelo de referência OSI e Pilha TCP/IP (Aula 02)  | https://forms.gle/Ng7GWxCg6UiYzY396 | 05/05/2024 |
+| Atividade 02 | Modelo de referência OSI e Pilha TCP/IP (Aula 02)  | [link](https://forms.gle/Ng7GWxCg6UiYzY396) | 20/04/2024 |
+| ... | ...  | ... | ... |
 
 
-### Projeto de redes de computadores ###
+
+### Projeto de redes de computadores :pushpin: ###
 
 | Fase | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
-|Inícial | Topologias e Classificações | link | 05/05/2024 |
-|Fase 02 | Dispositivos de redes e Protocolos | link | 05/05/2024 |
+|Inícial | Topologias e Classificações | [link](https://forms.gle/Goiuxtjd6v8h1S7h8) | 20/04/2024 |
+|Fase 02 | Dispositivos de redes e Protocolos | [link](https://forms.gle/uNVDgJJ4632rJpmY9) | 20/04/2024 |
+|Fase 03 | ... |... | ... |
 
 
 
 
-## Referencias bibligráficas ##
+## Referencias bibligráficas :books: ## 
 
-### Bibliográfia básica ###
+### Bibliográfia básica :book: ###
 
 FOROUZAN, Behrouz A; MOSHARRAF, Firouz. Redes de Computadores: uma abordagem top­ down. 6a ed.. Porto Alegre: AMGH, 2013. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580551693 
 
@@ -85,7 +102,7 @@ KUROSE, James F.; ROSS, Keith W. Redes de Computadores: uma abordagem top­down.
 
 VENTURY, Sidney N. Fundamentos de rede de computadores. Rio de Janeiro: SESES, 2016. Disponível em: http://repositorio.novatech.net.br/site/index.html#/objeto/detalhes/3A1F64D8­86CF­4C2F­8D3E­642693279C34 
 
-### Bibliográfia Complementar ###
+### Bibliográfia Complementar :book: ###
 
 BARRET, Diane. Redes de Computadores. 5a ed.. Rio de Janeiro: LTC, 2010.Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521635338/cfi/6/2!/4/2/2@0:0 
 
