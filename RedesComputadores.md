@@ -50,7 +50,9 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 
 | Aula    | Conteúdo              | Atividade         | Acesso      |
 |-------- | ----------------------|------------------ | ----------- 
-| Aula 01 | Conceitos iniciais | Fase Inicial projeto | Link        |
+| Aula 01 | Conceitos iniciais    | Fase Inicial projeto | [Aula 01](redes-computadores/Aula01_Fundamentos_Redes.pdf)        |
+| Aula 02 | Modelo de referência OSI (Open Systems Interconnection) e Pilha TCP/ IP | Atividade da aula | (Aula 02) |
+
 
 
 ## Atividades ##
