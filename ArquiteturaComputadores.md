@@ -54,7 +54,11 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 
 | Aula    | Conteúdo              | Atividade         | Acesso      |
 |-------- | ----------------------|------------------ | ----------- 
-| Aula 01 | Conceitos iniciais    | Fase Inicial projeto | [Aula 01](redes-computadores/Aula01_Fundamentos_Redes.pdf)        |
+| Aula 01 | Conceitos iniciais    | Pesquisa: sistemas de numeração e hierarquia de memória | [Aula 01](arquitetura-de-compuradores/aulas/aula01_arquitetura.pdf)  |
+| Aula 02 | Representação de dados    | Conversão sistemas de numeração | [Aula 02](arquitetura-de-compuradores/aulas/aula02_arquitetura.pdf)  |
+| Aula 03 | Portas lógicas    | Tabela verdade| [Aula 03](arquitetura-de-compuradores/aulas/aula03_arquitetura.pdf)  |
+| Aula 04 | Prática - Exercício em sala   | Prática Sistemas de numeração e Portas lógicas| [Aula 04](arquitetura-de-compuradores/aulas/aula04_arquitetura.pdf)  |
+| ... |...   | ... | ... |
 
 
 
@@ -76,18 +80,21 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 
 | Atividade | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
-| Atividade 02 | Modelo de referência OSI e Pilha TCP/IP (Aula 02)  | [link](https://forms.gle/Ng7GWxCg6UiYzY396) | 20/04/2024 |
+| Atividade 01 | Pesquisa sistemas de numeração e hierarquia de memória (Aula 02)  | [link](https://forms.gle/DbdmLHmQKhdA7ts89) | 20/04/2024 |
+| Atividade 02 | Conversão de base (Sistemas de numeração)  | [link](https://forms.gle/inxJAr8UMVwu2Czw5) | 20/04/2024 |
+| Atividade 03 | Construção tabela verdade  | [link](https://forms.gle/ZKiKce8pzQnxcvMg9) | 20/04/2024 |
+| Prática Pontuada | Construção tabela verdade  | [link](https://forms.gle/3JQE6peypS2WGkr89) | 20/04/2024 |
 | ... | ...  | ... | ... |
 
 
 
-### Projeto de redes de computadores :pushpin: ###
+### Projeto Arquitetura de Computadores - Dicionário de termos técnicos :pushpin: ###
+
 
 | Fase | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
-|Inícial | Topologias e Classificações | [link](https://forms.gle/Goiuxtjd6v8h1S7h8) | 20/04/2024 |
-|Fase 02 | Dispositivos de redes e Protocolos | [link](https://forms.gle/uNVDgJJ4632rJpmY9) | 20/04/2024 |
-|Fase 03 | ... |... | ... |
+|Inícial | Modelo de dicionário usado | [link](https://forms.gle/gxk94usxqunEmRqf6) | 20/04/2024 |
+|... | ... |... | ... |
 
 
 
