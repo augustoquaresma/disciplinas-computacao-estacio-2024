@@ -55,6 +55,7 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 | Aula 02 | Modelo de referência OSI (Open Systems Interconnection) e Pilha TCP/ IP | Atividade da aula | [Aula 02](redes-computadores/Aula02.pdf) |
 | Aula 03 | Equipamentos de redes | Fase 02 - Projeto | [Aula 03](redes-computadores/Aula03.pdf) |
 | Aula 04 | Camada de aplicação | Validação e prazo do projeto | [Aula 04](redes-computadores/Aula04CamadaAplicacao.pdf) |
+| Aula 05 | Revisão com questões de concurso | --- | [Aula 05](redes-computadores/Aula05.pdf) |
 | ... | ... | ... | ... |
 
 
