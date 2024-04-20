@@ -75,7 +75,7 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 
 | Atividade | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
-| Atividade pontuada | Pontuada  | ... | 27/04/2024 |
+| Atividade pontuada | Pontuada  | [Link](https://forms.gle/1VUw7VjZ2USvdRMf8) | 27/04/2024 |
 | ... | ...  | ... | ... |
 
 
@@ -85,9 +85,9 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 
 | Fase | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
-|Fase 01 | ... |... | ... |
-|Fase 02 | Aula 02 | https://forms.gle/x8qXs2KCu8kCSeiB8 | 27/04/2024 |
-|Fase 03 | Aula 03 | https://forms.gle/9SjT6CzsEXcVcavXA | 27/04/2024 |
+|Fase 01 | Aula 01 |[Link](https://forms.gle/xgCx3Uk2HCf5HYtGA) | 27/04/2024 |
+|Fase 02 | Aula 02 | [Link](https://forms.gle/x8qXs2KCu8kCSeiB8) | 27/04/2024 |
+|Fase 03 | Aula 03 | [Link](https://forms.gle/9SjT6CzsEXcVcavXA) | 27/04/2024 |
 |... | ... |... | ... |
 
 
