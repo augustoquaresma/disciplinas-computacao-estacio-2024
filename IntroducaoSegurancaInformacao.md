@@ -48,7 +48,11 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 
 | Aula    | Conteúdo              | Atividade         | Acesso      |
 |-------- | ----------------------|------------------ | ----------- 
-| Aula 01 | Importância da Segurança da Informação    |  Fase 01 - Projeto |  | 
+| Aula 01 | Importância da Segurança da Informação    |  Fase 01 - Projeto | [Aula01](segurança-informacao/Aula01.pdf) | 
+| Aula 02 | Normas de segurança / Ameaças e vulnerabilidades    |  Fase 02 - Projeto | [Aula02](segurança-informacao/Aula02.pdf) | 
+| Aula 03 | Mecanismos de controle    |  Fase 03 - Projeto | [Aula03](segurança-informacao/Aula03.pdf) | 
+| Aula 04 | Controle de acesso    |  - | [Aula04](segurança-informacao/Aula04.pdf) | 
+| Aula 05 | Atividade pontuada    |  Atividade pontuada | [Aula05](segurança-informacao/Aula05.pdf) | 
 | ... |...   | ... | ... |
 
 
@@ -71,15 +75,19 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 
 | Atividade | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
+| Atividade pontuada | Pontuada  | ... | 27/04/2024 |
 | ... | ...  | ... | ... |
 
 
 
-### Projeto Arquitetura de Computadores - Dicionário de termos técnicos :pushpin: ###
+### Projeto Segurança da Informação - Relatório de segurança da informação 📌 ###
 
 
 | Fase | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
+|Fase 01 | ... |... | ... |
+|Fase 02 | Aula 02 | https://forms.gle/x8qXs2KCu8kCSeiB8 | 27/04/2024 |
+|Fase 03 | Aula 03 | https://forms.gle/9SjT6CzsEXcVcavXA | 27/04/2024 |
 |... | ... |... | ... |
 
 
