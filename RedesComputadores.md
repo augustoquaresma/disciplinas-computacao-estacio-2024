@@ -56,7 +56,7 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 | Aula 03 | Equipamentos de redes | Fase 02 - Projeto | [Aula 03](redes-computadores/Aula03.pdf) |
 | Aula 04 | Camada de aplicação | Validação e prazo do projeto | [Aula 04](redes-computadores/Aula04CamadaAplicacao.pdf) |
 | Aula 05 | Revisão com questões de concurso | --- | [Aula 05](redes-computadores/Aula05.pdf) |
-| ... | ... | ... | ... |
+| Aula 06 | Endereçamento internet  | Atividade 03 | [Aula 06](redes-computadores/Aula06.pdf) |
 
 
 
@@ -78,6 +78,7 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 | Atividade | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
 | Atividade 02 | Modelo de referência OSI e Pilha TCP/IP (Aula 02)  | [link](https://forms.gle/Ng7GWxCg6UiYzY396) | 20/04/2024 |
+| Atividade 03 | Endereçamento na internet  | [link](https://forms.gle/Gh7GY2XPQ1afh4sN6) | 14/05/2024 |
 | ... | ...  | ... | ... |
 
 
