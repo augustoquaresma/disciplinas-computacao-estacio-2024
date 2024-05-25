@@ -58,6 +58,9 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 | Aula 02 | Representação de dados    | Conversão sistemas de numeração | [Aula 02](arquitetura-de-compuradores/aulas/aula02_arquitetura.pdf)  |
 | Aula 03 | Portas lógicas    | Tabela verdade| [Aula 03](arquitetura-de-compuradores/aulas/aula03_arquitetura.pdf)  |
 | Aula 04 | Prática - Exercício em sala   | Prática Sistemas de numeração e Portas lógicas| [Aula 04](arquitetura-de-compuradores/aulas/aula04_arquitetura.pdf)  |
+| Aula 05 | Portas Lógicas - Continuação   | ... | [Aula 05](arquitetura-de-compuradores/aulas/aula05.pdf) |
+| Aula 06 | Revisão simulado e processamento paralelo   | Pesquisa conceituação computação paralela | [Aula 06](arquitetura-de-compuradores/aulas/aula06.pdf) |
+| Aula 07 |...   | ... | ... |
 | ... |...   | ... | ... |
 
 
@@ -84,7 +87,7 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 | Atividade 02 | Conversão de base (Sistemas de numeração)  | [link](https://forms.gle/inxJAr8UMVwu2Czw5) | 20/04/2024 |
 | Atividade 03 | Construção tabela verdade  | [link](https://forms.gle/ZKiKce8pzQnxcvMg9) | 20/04/2024 |
 | Prática Pontuada | Construção tabela verdade  | [link](https://forms.gle/3JQE6peypS2WGkr89) | 20/04/2024 |
-| ... | ...  | ... | ... |
+| Atividade pontuada | Pesquisa termos computação paralela  | [link](https://forms.gle/XnvEgSkiadZDyBEy8) | 30/05/2024 |
 
 
 
