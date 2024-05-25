@@ -60,7 +60,7 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 | Aula 04 | Prática - Exercício em sala   | Prática Sistemas de numeração e Portas lógicas| [Aula 04](arquitetura-de-compuradores/aulas/aula04_arquitetura.pdf)  |
 | Aula 05 | Portas Lógicas - Continuação   | ... | [Aula 05](arquitetura-de-compuradores/aulas/aula05.pdf) |
 | Aula 06 | Revisão simulado e processamento paralelo   | Pesquisa conceituação computação paralela | [Aula 06](arquitetura-de-compuradores/aulas/aula06.pdf) |
-| Aula 07 |...   | ... | ... |
+| Aula 07 |Arquitetura RISC x CISC   | Sintese sobre arquitetura | [Aula 07](arquitetura-de-compuradores/aulas/aula07.pdf) |
 | ... |...   | ... | ... |
 
 
