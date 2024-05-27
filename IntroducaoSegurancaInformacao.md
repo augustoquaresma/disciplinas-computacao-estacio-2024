@@ -53,8 +53,8 @@ Apresento a tabela de aulas relacionado ao conteúdo trabalhados
 | Aula 03 | Mecanismos de controle    |  Fase 03 - Projeto | [Aula03](segurança-informacao/Aula03.pdf) | 
 | Aula 04 | Controle de acesso    |  - | [Aula04](segurança-informacao/Aula04.pdf) | 
 | Aula 05 | Atividade pontuada    |  Atividade pontuada | [Aula05](segurança-informacao/Aula05.pdf) | 
+| Aula 06 | Boas práticas em Segurança da Informação   | Atividade pontuada | [Aula06](segurança-informacao/Aula06.pdf) |
 | ... |...   | ... | ... |
-
 
 
 
@@ -76,7 +76,7 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 | Atividade | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
 | Atividade pontuada | Pontuada  | [Link](https://forms.gle/1VUw7VjZ2USvdRMf8) | 27/04/2024 |
-| ... | ...  | ... | ... |
+| Atividade pontuada 02 | Boas práticas de segurança da informação  | [link](https://forms.gle/1xTiD5bHcxKR9GDT6) | 30/05/2024 |
 
 
 
