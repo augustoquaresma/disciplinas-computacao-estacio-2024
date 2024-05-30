@@ -97,7 +97,7 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 | Fase | Descrição | Link de envio | Prazo |
 |---------- | ----------|-------------- | ----- |
 |Inícial | Modelo de dicionário usado | [link](https://forms.gle/gxk94usxqunEmRqf6) | 20/04/2024 |
-|... | ... |... | ... |
+| Final  | Dicionário | [link](https://forms.gle/cCjYCNj3ie8Lc56F9) | 31/05/2024 |
 
 
 
