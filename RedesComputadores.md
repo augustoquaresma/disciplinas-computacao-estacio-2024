@@ -79,7 +79,6 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 |---------- | ----------|-------------- | ----- |
 | Atividade 02 | Modelo de referência OSI e Pilha TCP/IP (Aula 02)  | [link](https://forms.gle/Ng7GWxCg6UiYzY396) | 20/04/2024 |
 | Atividade 03 | Endereçamento na internet  | [link](https://forms.gle/Gh7GY2XPQ1afh4sN6) | 14/05/2024 |
-| ... | ...  | ... | ... |
 
 
 
@@ -89,7 +88,7 @@ No escopo dos trabalhos previstos em sala de aula, envie as atividades pelo link
 |---------- | ----------|-------------- | ----- |
 |Inícial | Topologias e Classificações | [link](https://forms.gle/Goiuxtjd6v8h1S7h8) | 20/04/2024 |
 |Fase 02 | Dispositivos de redes e Protocolos | [link](https://forms.gle/uNVDgJJ4632rJpmY9) | 20/04/2024 |
-|Fase 03 | ... |... | ... |
+|Fase 03 | Endereçamento  | [link](https://forms.gle/zS2Aqt4zLAVXPkWr6) | 30/05/2024 |
 
 
 
